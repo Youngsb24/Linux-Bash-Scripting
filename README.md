@@ -119,4 +119,4 @@ Lastly i will switch to the user adam in the security group and verify if i can 
 </br>
 
 <br></br>
-Now you have the basic understanding of Linux. Please leave a suggestion of what i should teach next. I have been very busy with work and school alot of my repositories are a year or two old. As i am updating them and creating new repositories i am trying to figure out what i can do to make my work more comprehensive and interactive. 
+Now you have the basic understanding of Linux. Please leave a suggestion of what i should teach next. I have been very busy with work and school alot of my repositories i have recently created are old. As i am updating my github profile and creating new repositories i am trying to figure out what i can do to make my work more comprehensive and interactive. 
